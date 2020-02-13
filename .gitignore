@@ -1,0 +1,10 @@
+node_modules/
+eslint/
+eslint-config-airbnb/
+webpack/
+.eslintrc.js
+a.js
+b.js
+eslint.js
+package.json
+package-lock.json
