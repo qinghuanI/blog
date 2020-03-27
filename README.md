@@ -1,5 +1,8 @@
 # 个人博客
 
+## JS 基础
+- [浅谈 JS 里的浅拷贝和深拷贝](https://github.com/qinghuanI/blog/issues/2)
+
 ## 《深入浅出 Underscore.js》
 
 - [你不知道的 \_ 调用方式](https://github.com/qinghuanI/underscore-source-code-analysis/issues/1)

@@ -9,3 +9,6 @@ eslint.js
 package.json
 package-lock.json
 docs
+index.html
+aseets/
+.vscode
