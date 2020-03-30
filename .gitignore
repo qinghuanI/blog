@@ -10,5 +10,6 @@ package.json
 package-lock.json
 docs
 index.html
-aseets/
+assets/
 .vscode
+index.js
