@@ -1,9 +1,11 @@
 # 个人博客
 
 ## 源码分析系列
+
 - [解读 classnames 源码](https://github.com/qinghuanI/blog/issues/3)
 
 ## JS 基础
+
 - [类型系统之 JS 数据类型](https://github.com/qinghuanI/blog/issues/4)
 - [浅谈 JS 里的浅拷贝和深拷贝](https://github.com/qinghuanI/blog/issues/2)
 
@@ -20,3 +22,7 @@
 ## 工具篇
 
 - [详解 .eslintrc.js 配置](https://github.com/qinghuanI/blog/issues/1)
+
+## 项目约束与规则
+
+- [不可或缺的 Changelog 指南](https://github.com/qinghuanI/blog/issues/5)
