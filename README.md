@@ -20,9 +20,8 @@
 - [JavaScript 精髓之原型对象](https://github.com/qinghuanI/underscore-source-code-analysis/issues/9)
 
 ## 工具篇
+
+- [谈一谈格式化工具 Prettier](https://github.com/qinghuanI/blog/issues/7)
 - [README.md 简要说明](https://github.com/qinghuanI/blog/issues/6)
 - [不可或缺的 Changelog 指南](https://github.com/qinghuanI/blog/issues/5)
 - [详解 .eslintrc.js 配置](https://github.com/qinghuanI/blog/issues/1)
-
-
-
