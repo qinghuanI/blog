@@ -1,8 +1,9 @@
 # 个人博客
 
-## 源码分析系列
+## 常用库分析
 
 - [解读 classnames 源码](https://github.com/qinghuanI/blog/issues/3)
+- [Axios 使用指南](https://github.com/qinghuanI/blog/issues/8)
 
 ## JS 基础
 
