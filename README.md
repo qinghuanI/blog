@@ -9,6 +9,7 @@
 
 - [类型系统之 JS 数据类型](https://github.com/qinghuanI/blog/issues/4)
 - [浅谈 JS 里的浅拷贝和深拷贝](https://github.com/qinghuanI/blog/issues/2)
+- [执行上下文与 this 指向](https://github.com/qinghuanI/blog/issues/9)
 
 ## 《深入浅出 Underscore.js》
 
