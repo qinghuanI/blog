@@ -22,7 +22,7 @@
 - [JavaScript 精髓之原型对象](https://github.com/qinghuanI/underscore-source-code-analysis/issues/9)
 
 ## 工具篇
-
+- [git 常用命令归纳](https://github.com/qinghuanI/blog/issues/10)
 - [谈一谈格式化工具 Prettier](https://github.com/qinghuanI/blog/issues/7)
 - [README.md 简要说明](https://github.com/qinghuanI/blog/issues/6)
 - [不可或缺的 Changelog 指南](https://github.com/qinghuanI/blog/issues/5)
