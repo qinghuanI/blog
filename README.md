@@ -4,6 +4,7 @@
 
 - [解读 classnames 源码](https://github.com/qinghuanI/blog/issues/3)
 - [Axios 使用指南](https://github.com/qinghuanI/blog/issues/8)
+- [短小精悍的订阅发布库 mitt](https://github.com/qinghuanI/blog/issues/12)
 
 ## JS 基础
 
