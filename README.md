@@ -21,9 +21,11 @@
 - [详探模块化封装](https://github.com/qinghuanI/blog/issues/13)
 - [彻底理解浏览器同源策略与和跨域](https://github.com/qinghuanI/blog/issues/10)
 - [详解 JS 错误类型](https://github.com/qinghuanI/blog/issues/13)
+- [事件驱动架构之事件循环](https://github.com/qinghuanI/blog/issues/13)
 
 ## 工具篇
 
+- [Vim 常用命令](https://github.com/qinghuanI/blog/issues/14)
 - [Git 常用命令归纳](https://github.com/qinghuanI/blog/issues/10)
 - [谈一谈格式化工具 Prettier](https://github.com/qinghuanI/blog/issues/7)
 - [README.md 简要说明](https://github.com/qinghuanI/blog/issues/6)
