@@ -1,7 +1,7 @@
 # 个人博客
 
 ## 道可道，非常道
-
+- [简单就是美](https://github.com/qinghuanI/blog/issues/16)
 - [f(data) => UI](https://github.com/qinghuanI/blog/issues/3)
 
 ## 常用库分析
@@ -30,7 +30,7 @@
 
 ## 工具篇
 
-- [常用的 Linux 命令总结]()
+- [常用的 Linux 命令总结](https://github.com/qinghuanI/blog/issues/15)
 - [了解 Pkg 打包 node 应用]()
 - [Vim 常用命令](https://github.com/qinghuanI/blog/issues/14)
 - [Git 常用命令归纳](https://github.com/qinghuanI/blog/issues/10)
