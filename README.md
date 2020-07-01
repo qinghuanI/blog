@@ -1,6 +1,8 @@
 # 个人博客
 
 ## 道可道，非常道
+
+- [优秀架构师必须掌握的架构思维](https://github.com/qinghuanI/blog/issues/17)
 - [简单就是美](https://github.com/qinghuanI/blog/issues/16)
 - [f(data) => UI](https://github.com/qinghuanI/blog/issues/3)
 
